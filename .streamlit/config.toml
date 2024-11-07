@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#0f8798"  # Blue for key accents
+backgroundColor = "#d7f0f2"  # LightBkue background
+secondaryBackgroundColor = "#F0F0F0"  # Light gray for secondary areas
+textColor = "#333333"  # Dark gray for text for better readability
